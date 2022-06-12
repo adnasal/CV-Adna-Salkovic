@@ -1,7 +1,7 @@
 ## CV-Adna-Salkovic
 
 This project is my CV turned into web app promoting my skills and knowledge, using next programming languages:
-  - Typescript,
+  - TypeScript,
   - JavaScript,
   - HTML,
   - CSS.
