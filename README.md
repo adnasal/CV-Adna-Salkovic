@@ -13,4 +13,14 @@ Additionally, in the right corner of the header there is an option for downloadi
 Homepage consists of skills, career timeline and hobbies.
 Finally, header has a Facebook button which redirects user to my Facebook profile.
 
-This repository contains frontend implementation, which is deployed to [Heroku](https://adna-salkovic-cv.netlify.app/)
+This repository contains frontend implementation, which is deployed to [Heroku](https://adna-salkovic-cv.netlify.app/).
+
+##Run Development Mode
+
+_npm install_
+to install all the dependencies
+_ng serve_
+
+##Contributions
+
+All contributions are welcome.
